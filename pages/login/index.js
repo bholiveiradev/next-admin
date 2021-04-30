@@ -24,27 +24,14 @@ const Login = () => {
         />
         <link
           href="https://fonts.googleapis.com/css?family=Roboto:400,500"
-          rel="stylesheet"
-        />
-        <link
-          rel="stylesheet"
-          href="/static/css/bootstrap/css/bootstrap.min.css"
-        />
-        <link
-          rel="stylesheet"
-          href="/static/pages/waves/css/waves.min.css"
           media="all"
         />
         <link
           rel="stylesheet"
-          href="/static/icon/themify-icons/themify-icons.css"
+          href="/static/icon/icofont/css/icofont.css"
+          media="all"
         />
-        <link rel="stylesheet" href="/static/icon/icofont/css/icofont.css" />
-        <link
-          rel="stylesheet"
-          href="/static/icon/font-awesome/css/font-awesome.min.css"
-        />
-        <link rel="stylesheet" href="/static/css/style.css" />
+        <link rel="stylesheet" href="/static/css/style.css" media="all" />
       </Head>
       <Preloader />
       <section className="login-block">
